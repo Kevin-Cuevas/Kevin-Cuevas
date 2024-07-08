@@ -1,5 +1,16 @@
+# 🔮 Sobre Mi:
+¡Hola! Soy Kevin Eduardo Cuevas Orozco ;)
+
+Actualmente estudio la carrera **Ingeniería en Informatica** en el Instituto Tecnológico Campus ISTMO, soy un chico al que le apasiona la programación, con muchas ganas de aprender y adquirir experiencia en los campos de front-end, back-end, algoritmos y resolución de problemas.
+
+Siempre me esfuerzo para superar cada desafío ya sean simples o complejos, teniendo un fuerte deseo para aprender y mejorar cada día.
+
 # 💫 About Me:
-Hello there! I’m Kevin Eduardo Cuevas Orozco, a Computer Engineering student eager to gain experience in front-end development, back-end development, problem-solving, code analysis, logic development, and debugging.<br><br>I am passionate about both front-end and back-end programming, and I enjoy tackling problems, whether they are simple or complex.<br><br>I always strive to work effectively in a team, promoting cooperation, providing support in the best possible way, and having a strong desire to learn and improve every day.
+Hi there! I'm Kevin Eduardo Cuevas Orozco ;)
+
+I'm currently pursuing a degree in **Computer Science and Engineering** at the Instituto Tecnológico Campus ISTMO. I am passionate about programming and eager to learn and gain experience in front-end development, back-end development, algorithms, and problem-solving.
+
+I always strive to overcome every challenge, whether simple or complex, with a strong desire to learn and improve every day.
 
 
 ## 🌐 Socials:
