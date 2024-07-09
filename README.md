@@ -14,7 +14,7 @@ I always strive to overcome every challenge, whether simple or complex, with a s
 # 🔮 Sobre Mi:
 Me llamo Kevin Eduardo Cuevas Orozco ;)
  
-Actualmente estudio la carrera **Ingeniería en Informatica** en el Instituto Tecnológico Campus ISTMO, soy un chico al que le apasiona la programación, con muchas ganas de aprender y adquirir experiencia > en los campos de front-end, back-end, algoritmos y resolución de problemas.
+Actualmente estudio la carrera **Ingeniería en Informatica** en el Instituto Tecnológico Campus ISTMO, soy un chico al que le apasiona la programación, con muchas ganas de aprender y adquirir experiencia en los campos de front-end, back-end, algoritmos y resolución de problemas.
 
 Siempre me esfuerzo para superar cada desafío ya sean simples o complejos, teniendo un fuerte deseo para aprender y mejorar cada día.
 
