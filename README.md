@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Kevin Cuevas</h1>
+<h1 align="center">Hello 👋, I'm Kevin Cuevas</h1>
 
 # 🪄 About Me:
-Hi there! I'm Kevin Eduardo Cuevas Orozco ;)
+Hello there! I'm Kevin Eduardo Cuevas Orozco ;)
 
 I'm currently pursuing a degree in **Computer Science and Engineering** at the Instituto Tecnológico Campus ISTMO. I am passionate about programming and eager to learn and gain experience in front-end development, back-end development, algorithms, and problem-solving.
 
